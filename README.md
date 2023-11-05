@@ -9,10 +9,11 @@ version:  1.0.0
 language: en
 
 narrator: UK English Female
+@@add French in places TBC
 
 comment:  Created with help from ChatGPT
 
-@@icon: 
+@@icon: flashcards TBC
 
 classroom: disable
 
@@ -36,16 +37,22 @@ classroom: disable
 
 # French Flashcards
 
-## Group 1 Verbs
+## Group 1 - ER Verbs
 
 Regular -er verbs fall into this group. They are conjugated with the same pattern.
 
 ### Example
-- parler (to speak)
-- aimer (to love)
+- parl**er** (to speak)
+- aim**er** (to love)
 
 ### Conjugation
-Je parle, Tu parles, Il/Elle parle, Nous parlons, Vous parlez, Ils/Elles parlent
+
+- je parl**e** 
+- tu parl**es** 
+- il/elle parl**e** 
+- nous parl**ons** 
+- vous parl**ez** 
+- ils/elles parl**ent**
 
 -- Quiz: Which of the following is a Group 1 verb? --
 - [ ] finir
@@ -56,7 +63,7 @@ Je parle, Tu parles, Il/Elle parle, Nous parlons, Vous parlez, Ils/Elles parlent
 
 ---
 
-## Group 2 Verbs
+## Group 2 - IR Verbs
 
 These verbs end in -ir and have a particular conjugation pattern.
 
@@ -76,16 +83,21 @@ Je finis, Tu finis, Il/Elle finit, Nous finissons, Vous finissez, Ils/Elles fini
 
 ---
 
-## Group 3 Verbs
+## Group 3 Verbs - Everything else!
 
 This group includes all the irregular verbs that do not fall into Group 1 or 2.
 
 ### Example
-- prendre (to take)
-- vendre (to sell)
+- prend**re** (to take)
+- vend**re** (to sell)
 
 ### Conjugation
-Je prends, Tu prends, Il/Elle prend, Nous prenons, Vous prenez, Ils/Elles prennent
+Je prends
+Tu prends
+Il/Elle prend
+Nous prenons
+Vous prenez
+Ils/Elles prennent
 
 -- Quiz: Which of these verbs is a Group 3 verb? --
 - [ ] chanter
